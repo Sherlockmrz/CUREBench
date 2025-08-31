@@ -9,3 +9,5 @@ Can I use options in the input for open-ended questions?
 
 Should prompts be fixed during submission?
 > You can change the prompt.
+
+Can I use the valset in finetuning our model?
